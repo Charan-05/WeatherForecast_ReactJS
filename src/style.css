@@ -1,0 +1,16 @@
+body {
+  background-image: url('sky.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat:no-repeat;
+}
+
+.app-container {
+  width: 60%;
+  margin: auto;
+  padding: 20px;
+  height: auto;
+  background-color: rgba(255, 245, 202, 0.8);
+  display: flex;
+  border-radius: 30px;
+}
